@@ -1,4 +1,5 @@
 //You have to use the path to the main .exe of a program in wchat_t* G_Loaction. The wchat_t* G_name is not the path.
+//Also this program is NOT complete
 #include <iostream>
 #include <windows.h>
 #include <cstring>
